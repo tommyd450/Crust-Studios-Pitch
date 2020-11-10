@@ -6,21 +6,21 @@ This is the website, we are using to display any and all information relating to
 
 This is the link to our brain storming session that took place on Trello. 
 
-https://trello.com/b/SqLeDgHZ/game-dev-brainstorm
+[Link](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 
 ```markdown
 ================================
-=====##Brainstorming Agenda=====
+=====Brainstorming Agenda=======
 ================================
 
--**Who:** Tommy Dalton, Caolan Maher, Jakub Poczatek
-=====================================================
--**Where:** Trello.com
-=======================
--**When:** 3rd of November 2020, 14:30
-=======================================
--**Lenght:** 2hours and 30mins
-===============================
+-Who: Tommy Dalton, Caolan Maher, Jakub Poczatek
+=================================================
+-Where: Trello.com
+===================
+-When: 3rd of November 2020, 14:30
+===================================
+-Lenght: 2hours and 30mins
+===========================
  
 ```markdown
 Syntax highlighted code block
