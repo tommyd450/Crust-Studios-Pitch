@@ -1,13 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Crust Studios Game Pitch
 
-You can use the [editor on GitHub](https://github.com/tommyd450/Crust-Studios-Pitch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the website, we are using to display any and all information relating to our new and upcoming game, Crust Busters.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Brainstorming Session
 
-### Markdown
+This is the link to our brain storming session that took place on Trello. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://trello.com/b/SqLeDgHZ/game-dev-brainstorm
 
+```markdown
+================================
+=====##Brainstorming Agenda=====
+================================
+
+-**Who:** Tommy Dalton, Caolan Maher, Jakub Poczatek
+=====================================================
+-**Where:** Trello.com
+=======================
+-**When:** 3rd of November 2020, 14:30
+=======================================
+-**Lenght:** 2hours and 30mins
+===============================
+ 
 ```markdown
 Syntax highlighted code block
 
