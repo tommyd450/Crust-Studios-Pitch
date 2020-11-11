@@ -37,5 +37,8 @@ See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 ===========================
 ```
 
+---
+
 ### Pitch
 See our [Pitch](https://youtu.be/F4rMwYagxwk)
+We talk about the plans for our game, when it will be released, the content of the game and the storyline
