@@ -12,7 +12,7 @@ This is the link to our brain storming session that took place on Trello.
 
 ## Team Members
 | Name         | Project       | Position    |
-| ------------ | ------------- | ----------- |
+| ------------ |:-------------:| -----------:|
 | Caolan Maher | Crust Busters | Artist      |
 
 ```markdown
