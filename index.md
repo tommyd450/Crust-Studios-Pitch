@@ -11,14 +11,12 @@ This is the link to our brain storming session that took place on Trello.
 [Link to Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 
 ## Team Members
+
 | Name         | Project       | Position    |
 | ------------ |:-------------:|:-----------:|
 | Caolan Maher | Crust Busters | Artist      |
-
-| type|name |description |
-|----|---|---|
-| *address* | _user | address of certificate owner |
-| *bytes32* | _hash | sha256 hash of the certificate text |
+| Tommy Dalton | Crust Busters | Head Programmer |
+| Jakub Poczatek | Crust Busters | Sound Engineer |
 
 ```markdown
 ================================
