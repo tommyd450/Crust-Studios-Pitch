@@ -1,4 +1,4 @@
-## Welcome to Crust Studios
+# Welcome to Crust Studios
 
 This is the website, we are using to display any and all information relating to our new and upcoming game, Crust Busters.
 
@@ -6,7 +6,7 @@ This is the website, we are using to display any and all information relating to
 
 ---
 
-### Brainstorming Session
+## Brainstorming Session
 
 This is the link to our brain storming session that took place on Trello. 
 
@@ -39,6 +39,6 @@ See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 
 ---
 
-### Pitch
+## Pitch
 See our [Pitch.](https://youtu.be/F4rMwYagxwk)
 We talk about the plans for our game, when it will be released, the content of the game and the storyline
