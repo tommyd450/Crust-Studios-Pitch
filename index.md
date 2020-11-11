@@ -2,6 +2,8 @@
 
 This is the website, we are using to display any and all information relating to our new and upcoming game, Crust Busters.
 
+> "We want to deliver the best game we possibly can to our consumers" - Crust Studios
+
 ### Brainstorming Session
 
 This is the link to our brain storming session that took place on Trello. 
@@ -25,7 +27,3 @@ This is the link to our brain storming session that took place on Trello.
 
 ### Pitch
 [Link to the Pitch](https://youtu.be/F4rMwYagxwk)
-
-> "We want to deliver the best game we possibly can to our consumers" - Crust Studios
-
-Test
