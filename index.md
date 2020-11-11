@@ -42,3 +42,21 @@ See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 ## Pitch
 See our [Pitch.](https://youtu.be/F4rMwYagxwk)
 We talk about the plans for our game, when it will be released, the content of the game and the storyline
+
+---
+
+## Pitch Slides
+See the [Slides](https://docs.google.com/presentation/d/1fc1dLY0ievP9EL4zP1DQ8Gtn20kcgmgPttNoUp6a5eY/edit#slide=id.p)
+that we used in our pitch
+
+---
+
+## Burdown Chart
+See our [Burndown Chart.](https://github.com/tommyd450/Crust-Studios-Pitch/blob/main/Crust_Busters_Burndown.xlsx)
+Where we show our plan for the amount of work going into this project for the first 2 weeks
+
+---
+
+## Burndown Docs
+See our [Google Doc](https://docs.google.com/spreadsheets/d/1Q-t0lMcKpKMAXSaWLTAh0Meex45qF_f0N2A07voDdn8/edit?usp=sharing)
+Where our slides are contained
