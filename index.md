@@ -80,3 +80,5 @@ Where our Burdown Chart data is stored
 ![Chart Breakdown](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Chart%20Breakdown.png?raw=true)
 
 ![Chart](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Chart.png?raw=true)
+
+![Full Breakdown](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Full%20Breakdown.png?raw=true)
