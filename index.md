@@ -4,11 +4,15 @@ This is the website, we are using to display any and all information relating to
 
 > "We want to deliver the best game we possibly can to our consumers" - Crust Studios
 
+---
+
 ### Brainstorming Session
 
 This is the link to our brain storming session that took place on Trello. 
 
 See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
+
+---
 
 ## Team Members
 
