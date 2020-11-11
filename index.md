@@ -59,4 +59,4 @@ Where we show our plan for the amount of work going into this project for the fi
 
 ## Burndown Docs
 See our [Google Doc](https://docs.google.com/spreadsheets/d/1Q-t0lMcKpKMAXSaWLTAh0Meex45qF_f0N2A07voDdn8/edit?usp=sharing)
-Where our slides are contained
+Where our Burdown Chart data is stored
