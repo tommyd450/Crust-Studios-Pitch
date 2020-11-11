@@ -8,7 +8,7 @@ This is the website, we are using to display any and all information relating to
 
 ## Brainstorming Session
 
-This is the link to our brain storming session that took place on Trello. 
+We used Trello to brainstorm our game and it is available to view. 
 
 See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 
@@ -28,13 +28,13 @@ See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 ================================
 
 -Who: Tommy Dalton, Caolan Maher, Jakub Poczatek
-=================================================
+===========================================
 -Where: Trello.com
-===================
+================
 -When: 3rd of November 2020, 14:30
-===================================
+================================
 -Lenght: 2hours and 30mins
-===========================
+========================
 ```
 
 ---
