@@ -26,6 +26,5 @@ This is the link to our brain storming session that took place on Trello.
 ### Pitch
 [Link to the Pitch](https://youtu.be/F4rMwYagxwk)
 
-> Test
+> "We want to deliver the best game we possibly can to our consumers" >
 Hello
-> Test2
