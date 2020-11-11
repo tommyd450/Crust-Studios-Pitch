@@ -65,4 +65,6 @@ Where our Burdown Chart data is stored
 
 ## Images Of Our Work
 
-![Breakdown](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/1.png?raw=true)
+![Brainstorm 1](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/1.png?raw=true)
+
+![Brainstorm 2](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/2.png?raw=true)
