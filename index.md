@@ -21,6 +21,7 @@ This is the link to our brain storming session that took place on Trello.
 ===================================
 -Lenght: 2hours and 30mins
 ===========================
+'''
 
 ### Pitch
 [Link to the Pitch](https://youtu.be/F4rMwYagxwk)
