@@ -12,8 +12,13 @@ This is the link to our brain storming session that took place on Trello.
 
 ## Team Members
 | Name         | Project       | Position    |
-| ------------ |:-------------:| -----------:|
+| ------------ |:-------------:|:-----------:|
 | Caolan Maher | Crust Busters | Artist      |
+
+| type|name |description |
+|----|---|---|
+| *address* | _user | address of certificate owner |
+| *bytes32* | _hash | sha256 hash of the certificate text |
 
 ```markdown
 ================================
