@@ -24,7 +24,7 @@ See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 
 ```markdown
 ================================
-=====Brainstorming Agenda=========
+=======Brainstorming Agenda========
 ================================
 
 -Who: Tommy Dalton, Caolan Maher, Jakub Poczatek
