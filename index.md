@@ -8,8 +8,6 @@ This is the link to our brain storming session that took place on Trello.
 
 [Link to Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 
-
-
 ```markdown
 ================================
 =====Brainstorming Agenda=======
@@ -23,28 +21,9 @@ This is the link to our brain storming session that took place on Trello.
 ===================================
 -Lenght: 2hours and 30mins
 ===========================
- 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### Pitch
 [Link to the Pitch](https://youtu.be/F4rMwYagxwk)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
