@@ -14,8 +14,6 @@ This is the link to our brain storming session that took place on Trello.
 | Name         | Project       | Position    |
 | ------------ | ------------- | ----------- |
 | Caolan Maher | Crust Busters | Artist      |
-| Tommy Dalton | Crust Busters | Head Programmer |
-| Jakub Poczatek | Crust Busters | Sound Engineer |
 
 ```markdown
 ================================
