@@ -1,4 +1,4 @@
-## Welcome to Crust Studios Game Pitch
+## Welcome to Crust Studios
 
 This is the website, we are using to display any and all information relating to our new and upcoming game, Crust Busters.
 
