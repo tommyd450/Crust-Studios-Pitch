@@ -17,7 +17,7 @@ See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 ## Team Members
 
 | Name         | Project       | Position    |
-| ------------ |:-------------:|:-----------:|
+|:------------:|:-------------:|:-----------:|
 | Caolan Maher | Crust Busters | Artist      |
 | Tommy Dalton | Crust Busters | Head Programmer |
 | Jakub Poczatek | Crust Busters | Sound Engineer |
