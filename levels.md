@@ -50,8 +50,7 @@ Another temple focuses on the skills of the Knight such as combat.
 
 Another temple you will face focuses on the skills of the Spelunker, such as climbing and manouvering.
 
-
-
+![Spelunkers Temple](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Spelunkers_Temple.png?raw=true){:height="300px" width="600px"}
 
 ---
 
