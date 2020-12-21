@@ -4,6 +4,8 @@ This is where we display our level designs for our game.
 
 There are many levels in our game with each one showing off the skills of each of our characters
 
+Go back to the main page [here](index.md)
+
 ---
 
 ## Starting Area
