@@ -2,6 +2,8 @@
 
 This is where you can learn about each of the characters in the party.
 
+---
+
 ## Knight
 
 The knight is a core member of the group of adventurers sent out to investigate planets for the possibility of colonisation. 
@@ -16,6 +18,10 @@ lot of damage as well as quickly dodge out of the way. He dreams that one day he
 and as such he will take on any task given to him no matter how dirty or dangerous. The knight always puts others before himself, ready to put his life on 
 the line for his teammates. Being such a morally right person, he despises people with no loyalty and those that have no problem sacrificing fellow teammates 
 to achieve what they want. Its these characteristics that gave him the nickname of “The Knight”.
+
+![Knight](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png?raw=true){:align="center"}
+
+---
 
 ## Scientist
 
@@ -32,6 +38,10 @@ and puzzle skills. He is constantly looking for puzzles and problems to solve to
 him, in search for new materials and elements that he can then study and use for future inventions. He wants to be remembered for his contributions to guiding 
 his team, discovering new planets and materials, and his contributions to society with his ground-breaking inventions that will assist many people in their lives.
 
+![Scientist](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Scientist.png?raw=true){:align="center"}
+
+---
+
 ## Spelunker
 
 The spelunker is an intrepid explorer always prepared for whatever the environment throws at them having everything they’ll need on them or at least nearby. 
@@ -43,3 +53,5 @@ before they were born. Longing to be remembered alongside those famous explorers
 upon billions of planets ripe for exploration and mapping. With all of there accumulated knowledge the spelunker hopes that they can use it to help them 
 traverse alien worlds in the hopes of being remembered as a legendary explorer who went above and beyond. However upon the beginning of their expedition 
 the spelunker began to realise that space exploration wasn’t as exciting as they thought it would be.
+
+![Spelunker](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Spelunker.png?raw=true){:align="center"}
