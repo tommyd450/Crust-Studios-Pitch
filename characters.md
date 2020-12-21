@@ -2,6 +2,8 @@
 
 This is where you can learn about each of the characters in the party.
 
+Go back to the main page [here](index.md)
+
 ---
 
 ## Knight
