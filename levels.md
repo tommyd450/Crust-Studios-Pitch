@@ -10,7 +10,7 @@ There are many levels in our game with each one showing off the skills of each o
 
 This is where the start of our game takes place. Your ship has crashed in a valley of mountains on an unknown planet while you were searching for an unknown energy being detected
 
-![Game Start](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Temple_Entrance.png?raw=true =900x500)
+![Game Start](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Temple_Entrance.png?raw=true){:height="500px" width="900px"}
 
 ---
 
