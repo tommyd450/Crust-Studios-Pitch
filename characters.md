@@ -20,6 +20,9 @@ the line for his teammates. Being such a morally right person, he despises peopl
 to achieve what they want. Its these characteristics that gave him the nickname of “The Knight”.
 
 ![Knight](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png?raw=true){:align="center"}
+<p align="center">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png"
+</p>
 
 ---
 
