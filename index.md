@@ -6,15 +6,23 @@ This is the website, we are using to display any and all information relating to
 
 ---
 
-See our Level designs [here](levels.md)
-
----
-
 ## Brainstorming Session
 
 We used Trello to brainstorm our game and it is available to view. 
 
 See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
+
+---
+
+## Level Design
+
+See our level maps [here](levels.md)
+
+---
+
+## Twine Prototype
+
+Play a prototype of Crust Busters here
 
 ---
 
