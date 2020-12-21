@@ -19,7 +19,7 @@ and as such he will take on any task given to him no matter how dirty or dangero
 the line for his teammates. Being such a morally right person, he despises people with no loyalty and those that have no problem sacrificing fellow teammates 
 to achieve what they want. Its these characteristics that gave him the nickname of “The Knight”.
 
-![Knight](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png?raw=true){:margin-left="auto" margin-right="auto" display="block"}
+![Knight](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png?raw=true){:align="center"}
 
 ---
 
