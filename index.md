@@ -6,6 +6,10 @@ This is the website, we are using to display any and all information relating to
 
 ---
 
+See our Level designs [here](levels.md)
+
+---
+
 ## Brainstorming Session
 
 We used Trello to brainstorm our game and it is available to view. 
