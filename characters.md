@@ -19,7 +19,6 @@ and as such he will take on any task given to him no matter how dirty or dangero
 the line for his teammates. Being such a morally right person, he despises people with no loyalty and those that have no problem sacrificing fellow teammates 
 to achieve what they want. Its these characteristics that gave him the nickname of “The Knight”.
 
-![Knight](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png?raw=true){:align="center"}
 <p align="center">
   <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png"
 </p>
@@ -41,8 +40,9 @@ and puzzle skills. He is constantly looking for puzzles and problems to solve to
 him, in search for new materials and elements that he can then study and use for future inventions. He wants to be remembered for his contributions to guiding 
 his team, discovering new planets and materials, and his contributions to society with his ground-breaking inventions that will assist many people in their lives.
 
-![Scientist](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Scientist.png?raw=true){:align="center"}
-
+<p align="center">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Scientist.png"
+</p>
 ---
 
 ## Spelunker
@@ -57,4 +57,6 @@ upon billions of planets ripe for exploration and mapping. With all of there acc
 traverse alien worlds in the hopes of being remembered as a legendary explorer who went above and beyond. However upon the beginning of their expedition 
 the spelunker began to realise that space exploration wasn’t as exciting as they thought it would be.
 
-![Spelunker](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Spelunker.png?raw=true){:align="center"}
+<p align="center">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Spelunker.png"
+</p>
