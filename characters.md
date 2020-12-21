@@ -20,7 +20,7 @@ the line for his teammates. Being such a morally right person, he despises peopl
 to achieve what they want. Its these characteristics that gave him the nickname of “The Knight”.
 
 <p align="center">
-  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Knight.png?raw=true">
 </p>
 
 ---
@@ -41,7 +41,7 @@ him, in search for new materials and elements that he can then study and use for
 his team, discovering new planets and materials, and his contributions to society with his ground-breaking inventions that will assist many people in their lives.
 
 <p align="center">
-  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Scientist.png">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Scientist.png?raw=true">
 </p>
 ---
 
@@ -58,5 +58,5 @@ traverse alien worlds in the hopes of being remembered as a legendary explorer w
 the spelunker began to realise that space exploration wasn’t as exciting as they thought it would be.
 
 <p align="center">
-  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Spelunker.png">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Spelunker.png?raw=true">
 </p>
