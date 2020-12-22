@@ -93,3 +93,7 @@ You arrive at the top of the temple, where you face your final challenge to conq
 You also have a device on your wrist called the "Crust Boy 2020" This device allows you to see where you are in each temple
 
 ![Crust Boy 2020](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/crust_boy_2020.png?raw=true){:height="300px" width="600px"}
+
+## Beat Charts
+
+These 
