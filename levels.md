@@ -98,6 +98,8 @@ You also have a device on your wrist called the "Crust Boy 2020" This device all
 
 These beat charts are used to show everything involved in each level
 
-![Beat Chart 1](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Beat%20Chart%201.png?raw=true){:height="350px" width="600px"}
+![Beat Chart 1](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Beat%20Chart%201.png?raw=true){:height="400px" width="600px"}
 
-![Beat Chart 2](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Beat%20Chart%202.png?raw=true){:height="350px" width="500px"}
+<p align="center">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Beat%20Chart%202.png?raw=true" height="350px" width="500px">
+</p>
