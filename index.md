@@ -20,7 +20,7 @@ Learn about the game's characters [here](characters.md)
 
 ---
 
-## Level Design
+## Level Design And Story Synopsis
 
 See our level maps [here](levels.md)
 
