@@ -101,5 +101,5 @@ These beat charts are used to show everything involved in each level
 ![Beat Chart 1](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Beat%20Chart%201.png?raw=true){:height="400px" width="600px"}
 
 <p align="center">
-  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Beat%20Chart%202.png?raw=true" height="350px" width="500px">
+  <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Beat%20Chart%202.png?raw=true" height="400px" width="500px">
 </p>
