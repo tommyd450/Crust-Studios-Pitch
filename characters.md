@@ -1,4 +1,4 @@
-# Crust Busters Character Profiles
+# Crust Busters Character Profiles And Story Synopsis
 
 This is where you can learn about each of the characters in the party.
 
@@ -62,3 +62,30 @@ the spelunker began to realise that space exploration wasn’t as exciting as th
 <p align="center">
   <img src="https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Spelunker.png?raw=true">
 </p>
+
+## Story Synopsis
+
+### Act 1
+
+The party of 3 are flying through space, looking for new inhabitable planets to mark for future colonisation. During their mission, they happen upon a planet with unprecedented seismic activity. The scientist pushes the party to go and investigate said activity. As they approach the planet, the spaceship is violently pulled towards the planet’s surface and crashes. Cuts to black and a few hours pass.
+When we come back to our heroes, they’re bruised and scarred but nothing serious. With great effort they crawl out of the spaceship. They take in their surroundings. Colossal mountains surround them, and the landscape itself is very rocky and devoid of vegetation. The scientist scans the horizon for any points of interest and notices that in one of the distant mountain faces lies a decrepit, ancient temple carved into the mountain side. The scientist tells the knight and spelunker to head in and investigate while he works on the ship. The two make their way into the temple. Upon entering, the two find themselves in a vast open chamber with crumbling pillars lining the centre path. At the centre of the chamber, floats a mysterious, white orb. The orb pulses periodically creating powerful vibrations. The two approach the orb with caution, observing the orb. While the spelunker is pacing around, thinking to himself, the knight mindlessly reaches for the orb. Upon touch, the orb changes to red and cracks open. Evil spirits rush out of the orb, draining the orb of its red colour and leaving it clear. The Temple begins to collapse, and our heroes make their way out. 
+
+### Act 2
+
+Cut to scientist fixing the ship, as he finishes the repairs, he hears a loud rumbling. He turns around and sees the ancient temple crumble in the distance with red smoke arising from the cracks. The knight and spelunker come rushing back and urge the scientist to head inside the spaceship and lift off. As the scientist starts the spaceship, the red smoke forms a thick barrier in the atmosphere, the party tries to fly into space but are quickly stopped by said barrier. Floating mid-air the party is forced to watch a part of the smoke transform and take shape of each party member. The silhouettes separate and each one plunges into the ground, raising new temples in the spots they struck. Knowing they can’t escape, our adventurers land once again, determined to reseal the evil. 
+The party makes their way through each one of the temples, the objective in each temple is to use the orb at the end to reseal each respective spirit.
+
+#### Scientist Temple:
+
+This temple is filled with traps and puzzles that mainly the scientist can solve with the help of the knight and spelunker. At the end, the party must solve the most difficult puzzle yet, by solving it, they get access to the orb that reseals the scientist’s silhouette. 
+#### Spelunker Temple:
+
+This temple will be heavily based on parkour and scaling obstacles, the spelunker will be of most help here, with the occasional help from his party using their own abilities. At the end, the party will have to scale to the top of the temple, where they will find the orb to reseal the spelunker’s silhouette.
+#### Knight Temple:
+
+The knights temple will put a heavy emphasis on combat, where the knight will be the centre character. The scientist and spelunker will provide backup. At the end of this temple the knight and his party members must fight off a horde of smoke demons to get to the orb to reseal the knight’s silhouette. 
+When the third tower is complete, a 4th bigger tower comes up from the ground, with a large translucent orb floating on top of it. Our heroes make their way to it, upon entrance, the doors of the tower seal shut, locking the heroes inside. The heroes make their way through the temple using all the skills and abilities they learned in the previous temples. Once at the top, the heroes have the orb in their sight and upon approaching they get interrupted by an amalgamation of all 3 previous silhouettes. 
+
+### Act 3
+
+Upon defeating the last spirit, the knight makes his way to grab the orb. Before touching it, the scientist stops him and directs his attention to a mural behind the orb. On the mural is a depiction of a man holding the orb and having his life sucked out. Upon discussing the issue, the knight takes on the responsibility of sacrificing himself to reseal the evil spirit. He does this to redeem himself for being the one who released it in the first place. The knight sacrifices himself and all the smoke gets sucked back into the orb. Once all the smoke is sucked back into the orb, the knights body collapses and turns into dust and another strong wave of vibrations occurs. Shaking the foundations of the temples and crumbling them do the ground. The scientist and spelunker quickly make their way down the temple, making it just in time before the temple fully collapses. The two get into the spaceship and leave the planet.
