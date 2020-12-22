@@ -14,13 +14,13 @@ See our [Trello Brainstorm](https://trello.com/b/SqLeDgHZ/game-dev-brainstorm)
 
 ---
 
-## Characters
+## Characters And Story Synopsis
 
 Learn about the game's characters [here](characters.md)
 
 ---
 
-## Level Design And Story Synopsis
+## Level Design
 
 See our level maps [here](levels.md)
 
