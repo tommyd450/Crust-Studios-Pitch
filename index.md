@@ -6,6 +6,20 @@ This is the website, we are using to display any and all information relating to
 
 ---
 
+## Playtest Data
+
+This is the data we gathered from our playtests.
+
+| Who         | When       | Where    | What     | Feedback    | Response     |
+|:------------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| Jack Noonan | 10/01/2021 | Discord | Knight Temple | Confused as to what a mistlets was. Struggled to solve the chandelier puzzle. Hard to imagine rooms/lack of description. Knight is dumb. | Level was tested apart from the game. Mistlets introduced prior to that level. Images were added to the game to help visualise rooms. Knight is supposed to be dumb |
+| Alan Crean | 10/01/2021 | Discord | Knight Temple | Wanted an explanation as to what a mistlets was. Going back to hub was broken | Same as above the mistlets were introduced prior to the temple temple was standalone so this has been rectified. |
+| Jack Fitzpatrick | 10/01/2021 | Discord | Spelunker Temple | Rooms should be a bit more detailed. More Mistlets confusion. Lack of visulisation in rooms. Felt the characters worked well together. | A little bit more detail was added to some rooms. Mistlet addressed the same as above. |
+| Ciara Keogh | 10/01/2021 | Discord | Spelunker Temple | Rooms were bland. Was confused how the door was opened in room 2.2. Characters did not seem to have much of a relationship. Not enough options in some rooms Felt the rooms need images to understand what significance it had. | Some details were added to the rooms. How the door in 2.2 was opened has been specified better. Some images have been added throughout the temple |
+| John Peter | 10/01/2021 | Discord | Scientist Temple | Was never lost/ knew where they were. Felt the rooms were described well. Felt characters should have interacted more outside of their mission. Felt character text should be colour coded as they kept reading certain line thinking they were another character. | Better notation was used for character's in dialogue after. |
+
+---
+
 ## Brainstorming Session
 
 We used Trello to brainstorm our game and it is available to view. 
