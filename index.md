@@ -30,7 +30,15 @@ Download the full game [here](https://cdn.discordapp.com/attachments/77099018775
 
 ## Game Design Document
 
-See our GDD [here]()
+See our GDD [here](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Crust%20Busters%20GDD.docx)
+
+---
+
+## Blueprint Of Full Game
+
+See our Twine Blueprint
+
+![Blueprint](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/unknown.png?raw=true)
 
 ---
 
