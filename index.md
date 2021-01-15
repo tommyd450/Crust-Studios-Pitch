@@ -24,7 +24,7 @@ This is the data we gathered from our playtests.
 
 Play our full game [here](Crust_BustersSpScKnFnPt.html)
 
-Download the full game [here](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Crust_BustersSpScKnFnPt.html)
+Download the full game [here](https://cdn.discordapp.com/attachments/770990187756650548/799636765869604884/Crust_BustersSpScKnFnPt.html)
 
 ---
 
