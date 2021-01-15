@@ -22,9 +22,9 @@ This is the data we gathered from our playtests.
 
 ## Full Game
 
-Play our full game [here]()
+Play our full game [here](Crust_BustersSpScKnFnPt.html)
 
-Download the full game [here]()
+Download the full game [here](https://github.com/tommyd450/Crust-Studios-Pitch/blob/gh-pages/Crust_BustersSpScKnFnPt.html)
 
 ---
 
