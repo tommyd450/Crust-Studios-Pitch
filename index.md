@@ -20,6 +20,18 @@ This is the data we gathered from our playtests.
 
 ---
 
+## Full Game
+
+See our full game [here]()
+
+---
+
+## Game Design Document
+
+See our GDD [here]()
+
+---
+
 ## Brainstorming Session
 
 We used Trello to brainstorm our game and it is available to view. 
