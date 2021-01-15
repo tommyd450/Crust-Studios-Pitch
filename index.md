@@ -22,7 +22,9 @@ This is the data we gathered from our playtests.
 
 ## Full Game
 
-See our full game [here]()
+Play our full game [here]()
+
+Download the full game [here]()
 
 ---
 
