@@ -22,9 +22,9 @@ This is the data we gathered from our playtests.
 
 ## Full Game
 
-Play our full game [here](Crust_BustersSpScKnFnPt.html)
+Play our full game [here](Crust_BustersFin.html)
 
-Download the full game [here](https://cdn.discordapp.com/attachments/770990187756650548/799636765869604884/Crust_BustersSpScKnFnPt.html)
+Download the full game [here](https://cdn.discordapp.com/attachments/770990187756650548/799639301679218709/Crust_BustersFin.html)
 
 ---
 
